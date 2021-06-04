@@ -1,3 +1,12 @@
+Favorite food
+=============
 Spaghetti a la bolognese
 Tartiflette
 Choucroute
+
+Favorite movies
+===============
+Drive
+The Martian
+The Secret Life of Walter Mitty
+>>>>>>> movies
